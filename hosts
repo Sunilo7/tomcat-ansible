@@ -1,2 +1,3 @@
-[tomcat_nodes]
-192.168.10.10 # Add Server IP address, one line per server
+[buildserver]
+172.31.49.118
+172.31.54.111  # Add Server IP address, one line per server
